@@ -471,6 +471,7 @@ h3 {
   border-radius: 10px;
   padding-inline: 20px;
   outline: none;
+  color: var(--text-color-second);
 }
 textarea {
   width: 100%;
@@ -504,7 +505,7 @@ footer {
   align-items: center;
   flex-direction: column;
   row-gap: 30px;
-  background: #f8f8f8;
+  background: #2F4F4F;
   padding-block: 40px 60px;
 }
 .top-footer p {
@@ -528,6 +529,7 @@ footer {
   gap: 30px;
 }
 .bottom-footer {
+  color: var(--text-color-second);
   font-size: 14px;
   margin-top: 10px;
 }
