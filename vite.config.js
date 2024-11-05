@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:"/podfolio014",
-})
+  base: "/final-frontend-014-nattavut",
+});
